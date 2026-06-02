@@ -1,18 +1,15 @@
 
 <!# 💫About Me :
  Hey there! I'm Melani
-💻 CS Student | 🧠 AI Enthusiast | 🛡️ Cybersecurity and Digital Forensics
-🎓 Student Ambassador | 🚀 Always Learning & Building
+ Data Analyst|Asspiring Computational Biologist
+| 🚀 Always Learning & Building
 
 🔍 Interests:
 🧬 Alzheimer's Detection | 🧠 Machine Learning 
-💾 Digital Forensics | 🧰 USB Security Systems | 🕵️‍♂️ Ethical Hacking
-🌐 VPNs | 📡 IoMT | 🔐 Encrypted Messaging
+💾 Data Analysis | Computational Biologist
 
 📚 Currently working on:
-🧬 Early Detection of Alzheimer’s using clinical, genetic, and MRI data
-⚙️ Lightweight deep learning + optimization magic ✨
-🔄 Late fusion to bring it all together!
+📊 Data Analysis Projects
 
 💬 Let’s connect!
 🌟 Open to collaboration, learning, and cool projects!

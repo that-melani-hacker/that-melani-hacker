@@ -1,21 +1,90 @@
-# 💫 About Me:
-# Hi, I'm Melani 👋<br><br>**Data analyst moving into health data engineering and AI in biomedicine.**<br>Computer Science graduate (Landmark University) and founder of [Capstone Lab](https://capstone-lab-website.vercel.app), a data and technology consultancy. I turn messy data into decisions, and I'm building toward computational biology and pharmacogenomics.<br><br>📍 Port Harcourt, Nigeria · 📫 ordornnenna123@gmail.com · [LinkedIn](https://www.linkedin.com/in/nnenna-clifford-ordor-nnenna) · [Instagram](https://instagram.com/world.of.melani)<br><br>---<br><br>## 🧬 AI in Biomedicine<br><br>| Project | What it does | Tools |<br>| --- | --- | --- |<br>| [Who Comes Back?](https://github.com/that-melani-hacker/Diabetes_readmisssion) | Explainable prediction of 30-day readmission for diabetic inpatients | Python, scikit-learn, pandas |<br>| [Checkam](https://github.com/that-melani-hacker/checkam) · [live](https://checkam-lemon.vercel.app) | AI drug-verification app that checks medicines against NAFDAC's registry | Next.js, TypeScript, AI |<br><br>*Also: final-year thesis on machine learning for Alzheimer's detection from MRI, and research on antimicrobial resistance.*<br><br>## 🛠️ Data Engineering<br><br>| Project | What it does | Tools |<br>| --- | --- | --- |<br>| [Nigerian Job Market Analytics](https://github.com/that-melani-hacker/nigerian-job-market-analytics) · [live](https://nigerian-job-market-analytics.streamlit.app) | Multi-source pipeline: scrapes, cleans and analyses 325 job listings from three sources | Python, web scraping, Streamlit |<br>| [Hospital Readmission](https://github.com/that-melani-hacker/hospital-readmission) | Loading synthetic patient records (Synthea) into PostgreSQL and profiling them for analysis *(in progress)* | Python, PostgreSQL, SQL |<br><br>## 📊 Data Analytics<br><br>| Project | Question it answers | Tools |<br>| --- | --- | --- |<br>| [Global Development Analysis](https://github.com/that-melani-hacker/global-development-analysis) | Where should a development budget go to save the most children's lives per dollar? | SQL, Python, Power BI |<br>| [Olist E-Commerce SQL Analysis](https://github.com/that-melani-hacker/olist-sql-analysis) | What drives revenue across ~100,000 orders, and who are the most valuable customers? | SQL |<br>| [Retail Performance Dashboard](https://github.com/that-melani-hacker/retail-performance-dashboard) | How do discounts affect sales and profit? | Excel |<br>| [SQL Projects](https://github.com/that-melani-hacker/sql_projects) | A collection of SQL analyses | SQL |<br><br>## 🌐 Web<br><br>| Project | What it is | Tools |<br>| --- | --- | --- |<br>| [Capstone Lab website](https://github.com/that-melani-hacker/Capstone-Lab-website) · [live](https://capstone-lab-website.vercel.app) | Website for my data consultancy | Astro |<br>| [FocusFlow](https://github.com/that-melani-hacker/FocusFlow) · [live](https://focus-flow-navy-tau.vercel.app) | Productivity app | TypeScript |<br>| [Portfolio](https://github.com/that-melani-hacker/My-portfolio.io) | My earlier personal portfolio | JavaScript |<br><br>---<br><br>## 🧰 Toolkit<br><br>**Data:** ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) ![pandas](https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white) ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black) ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white) ![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)<br><br>**Machine learning:** ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)<br><br>**Web:** ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)<br><br>**Tools:** ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white) ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white)<br><br>---<br><br>**Currently:** learning data engineering (Docker, dbt, pipeline orchestration) and working with health data standards like FHIR.<br>**Open to:** health data internships, contracts and collaborations. Reach out by email or LinkedIn.
+<!-- Header -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F9D5E5,50:F3C4D9,100:D9C2EC&height=210&section=header&text=Hi,%20I'm%20Melani&fontSize=52&fontColor=5B4B5A&fontAlignY=36&desc=data%20%E2%80%A2%20health%20%E2%80%A2%20AI%20in%20biomedicine&descSize=18&descAlignY=58&descColor=8E6C88&animation=fadeIn" width="100%"/>
+</p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=20&duration=3200&pause=900&color=C27BA0&center=true&vCenter=true&width=560&lines=Data+Analyst+%E2%9C%A8;Becoming+a+Health+Data+Engineer+%F0%9F%A9%BA;Building+toward+AI+in+Biomedicine+%F0%9F%A7%AC;Founder+of+Capstone+Lab+%F0%9F%92%BC" alt="Typing intro"/>
+</p>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/highIQ_individual) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Clifford-Ordor Nnenna Ruth) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Melani_hacker) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ordornnenna123@gmail.com) 
-
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Gitea](https://img.shields.io/badge/Gitea-34495E?style=for-the-badge&logo=gitea&logoColor=5D9425) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=that-melani-hacker&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=that-melani-hacker&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=that-melani-hacker&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
+<p align="center">
+  <a href="https://www.linkedin.com/in/nnenna-clifford-ordor-nnenna"><img src="https://img.shields.io/badge/LinkedIn-F3C4D9?style=for-the-badge&logo=linkedin&logoColor=5B4B5A"/></a>
+  <a href="https://instagram.com/world.of.melani"><img src="https://img.shields.io/badge/@world.of.melani-F9D5E5?style=for-the-badge&logo=instagram&logoColor=5B4B5A"/></a>
+  <a href="mailto:ordornnenna123@gmail.com"><img src="https://img.shields.io/badge/Email%20me-D9C2EC?style=for-the-badge&logo=gmail&logoColor=5B4B5A"/></a>
+  <a href="https://capstone-lab-website.vercel.app"><img src="https://img.shields.io/badge/Capstone%20Lab-EBD9F2?style=for-the-badge&logo=vercel&logoColor=5B4B5A"/></a>
+</p>
 
 ---
-[![](https://komarev.com/ghpvc/?username=that-melani-hacker&icon=2&color=5)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 🌸 about me
+
+I'm a Computer Science graduate from Port Harcourt, Nigeria, turning messy data into clear decisions. I'm moving from data analytics into **health data engineering**, with my sights on **AI in biomedicine**, computational biology and, one day, pharmacogenomics.
+
+- 🩺 currently: learning data engineering (Docker, dbt, pipelines) and health data standards like FHIR
+- 💼 founder of **Capstone Lab**, a data and technology consultancy
+- 🤝 open to: health data internships, contracts and collaborations
+
+---
+
+### 🧬 ai in biomedicine
+
+| | project | what it does |
+|:-:|:--|:--|
+| 💗 | **[Who Comes Back?](https://github.com/that-melani-hacker/Diabetes_readmisssion)** | explainable prediction of 30-day readmission for diabetic inpatients · `Python` `scikit-learn` |
+| 💊 | **[Checkam](https://github.com/that-melani-hacker/checkam)** · [live ↗](https://checkam-lemon.vercel.app) | AI drug-verification app that checks medicines against NAFDAC's registry · `Next.js` `TypeScript` |
+
+<sub>✨ also: ML thesis on Alzheimer's detection from MRI · research on antimicrobial resistance</sub>
+
+### 🛠️ data engineering
+
+| | project | what it does |
+|:-:|:--|:--|
+| 📡 | **[Nigerian Job Market Analytics](https://github.com/that-melani-hacker/nigerian-job-market-analytics)** · [live ↗](https://nigerian-job-market-analytics.streamlit.app) | multi-source pipeline that scrapes, cleans and analyses 325 job listings · `Python` `Streamlit` |
+| 🏥 | **[Hospital Readmission](https://github.com/that-melani-hacker/hospital-readmission)** | synthetic patient records (Synthea) loaded into PostgreSQL and profiled · *in progress* · `PostgreSQL` `SQL` |
+
+### 📊 data analytics
+
+| | project | the question |
+|:-:|:--|:--|
+| 🌍 | **[Global Development Analysis](https://github.com/that-melani-hacker/global-development-analysis)** | where should a development budget go to save the most children's lives per dollar? · `SQL` `Power BI` |
+| 🛍️ | **[Olist E-Commerce SQL](https://github.com/that-melani-hacker/olist-sql-analysis)** | what drives revenue across ~100,000 orders? · `SQL` |
+| 📈 | **[Retail Performance Dashboard](https://github.com/that-melani-hacker/retail-performance-dashboard)** | how do discounts affect sales and profit? · `Excel` |
+| 🗂️ | **[SQL Projects](https://github.com/that-melani-hacker/sql_projects)** | a collection of SQL analyses · `SQL` |
+
+### 🌐 web
+
+| | project | what it is |
+|:-:|:--|:--|
+| 🔬 | **[Capstone Lab](https://github.com/that-melani-hacker/Capstone-Lab-website)** · [live ↗](https://capstone-lab-website.vercel.app) | website for my data consultancy · `Astro` |
+| ⏳ | **[FocusFlow](https://github.com/that-melani-hacker/FocusFlow)** · [live ↗](https://focus-flow-navy-tau.vercel.app) | productivity app · `TypeScript` |
+
+---
+
+### 🧰 toolkit
+
+<p align="center"><b>data & engineering</b><br/>
+  <img src="https://skillicons.dev/icons?i=py,postgres,mysql,docker,linux,git,github&theme=light" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Power%20BI-F9D5E5?style=flat-square&logo=powerbi&logoColor=5B4B5A"/>
+  <img src="https://img.shields.io/badge/Tableau-F9D5E5?style=flat-square&logo=tableau&logoColor=5B4B5A"/>
+  <img src="https://img.shields.io/badge/Excel-F9D5E5?style=flat-square&logo=microsoftexcel&logoColor=5B4B5A"/>
+  <img src="https://img.shields.io/badge/pandas-F9D5E5?style=flat-square&logo=pandas&logoColor=5B4B5A"/>
+  <img src="https://img.shields.io/badge/Streamlit-F9D5E5?style=flat-square&logo=streamlit&logoColor=5B4B5A"/>
+</p>
+<p align="center"><b>machine learning</b><br/>
+  <img src="https://skillicons.dev/icons?i=sklearn,pytorch,tensorflow&theme=light" />
+</p>
+<p align="center"><b>web</b><br/>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,nodejs,vercel,figma&theme=light" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=that-melani-hacker&background=FFF5F8&border=F3D1DC&ring=E8A0BF&fire=D67BA8&currStreakNum=5B4B5A&sideNums=5B4B5A&currStreakLabel=B5739D&sideLabels=B5739D&dates=9C8A96&stroke=F3D1DC" alt="GitHub streak"/>
+</p>
+
+<p align="center"><i>soft on the outside, structured data on the inside</i> 🎀</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:D9C2EC,50:F3C4D9,100:F9D5E5&height=110&section=footer" width="100%"/>

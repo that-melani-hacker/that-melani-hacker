@@ -10,7 +10,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/nnenna-clifford-ordor-nnenna"><img src="https://img.shields.io/badge/LinkedIn-F3C4D9?style=for-the-badge&logo=linkedin&logoColor=5B4B5A" alt="LinkedIn"/></a>
   <a href="mailto:ordornnenna123@gmail.com"><img src="https://img.shields.io/badge/Email%20me-D9C2EC?style=for-the-badge&logo=gmail&logoColor=5B4B5A" alt="Email me"/></a>
-  <a href="https://nnenna-portfolio-orpin.vercel.app"><img src="https://img.shields.io/badge/Portfolio-F9D5E5?style=for-the-badge&logo=vercel&logoColor=5B4B5A" alt="Portfolio"/></a>
+  <a href="https://clifford-ordor-nnenna.vercel.app"><img src="https://img.shields.io/badge/Portfolio-F9D5E5?style=for-the-badge&logo=vercel&logoColor=5B4B5A" alt="Portfolio"/></a>
   <a href="https://capstone-lab-website.vercel.app"><img src="https://img.shields.io/badge/Capstone%20Lab-EBD9F2?style=for-the-badge&logo=vercel&logoColor=5B4B5A" alt="Capstone Lab"/></a>
 </p>
 
